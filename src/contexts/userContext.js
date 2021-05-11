@@ -51,7 +51,7 @@ const UserContextProvider =({children})=>{
     }
 
     return(
-        <userContext.Provider value={{signIn,loading:state.loading,userdata:state.loading}}>
+        <userContext.Provider value={{signIn,signUp,loading:state.loading,userdata:state.loading}}>
             {children}
         </userContext.Provider>
     )

@@ -2,10 +2,7 @@ import React from "react";
 import banner from "../images/banner.jpg";
 import products from "../data/products";
 import {
-  Card,
-  CardBody,
-  CardImg,
-  Col,
+  
   Container,
   Input,
   Row,

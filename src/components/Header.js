@@ -4,10 +4,8 @@ import logo from "../images/primetek.png";
 import {userContext} from "../contexts/userContext"
 import { AiFillCloseCircle } from "react-icons/all";
 import {
-  Button,
   Container,
   Modal,
-  ModalHeader,
   Nav,
   Navbar,
   NavbarBrand,
